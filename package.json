@@ -1,0 +1,25 @@
+{
+  "name": "udemy-webpack5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderRam/udemy-webpack5.git"
+  },
+  "keywords": [],
+  "author": "Carmen Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderRam/udemy-webpack5/issues"
+  },
+  "homepage": "https://github.com/SpiderRam/udemy-webpack5#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
